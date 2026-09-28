@@ -10,6 +10,14 @@ renderers, desktop and mobile.
 
 [orkitec/orkige](https://github.com/orkitec/orkige) · [orkitec.com](https://www.orkitec.com)
 
+## Velorki
+
+A free, open-source bike route planner and ride recorder for iPhone and
+Android on OpenStreetMap data. Routing, place search and spoken turns run on
+the phone, even without a signal; no account, no ads.
+
+[orkitec/velorki](https://github.com/orkitec/velorki) · [velorki.com](https://velorki.com)
+
 ## Orkify
 
 Modern process orchestration and zero-downtime deployment for self-hosted
