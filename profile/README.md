@@ -1,6 +1,6 @@
 # Orkitec
 
-Indie game development and the tooling that grows around it.
+Apps, games and the tools that grow around them.
 
 ## Orkige
 
